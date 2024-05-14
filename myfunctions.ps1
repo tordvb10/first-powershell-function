@@ -1,3 +1,4 @@
+Write-Host "Its greeting!!"
 function Get-Greeting {
     param (
         [string]$Name
